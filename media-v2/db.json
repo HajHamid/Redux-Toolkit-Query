@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Hamid"
+    },
+    {
+      "id": "3581",
+      "name": "Mrs. Laura Morissette"
+    },
+    {
+      "id": "ade4",
+      "name": "Sylvester Murazik III"
+    },
+    {
+      "id": "c490",
+      "name": "Guy Aufderhar"
+    },
+    {
+      "id": "051a",
+      "name": "Mrs. Jamie McDermott"
+    },
+    {
+      "id": "da51",
+      "name": "Dwight Simonis"
+    }
+  ],
+  "albums": [
+    {
+      "id": "31b3",
+      "userId": 1,
+      "title": "Oriental Rubber Gloves"
+    },
+    {
+      "id": "f4c1",
+      "userId": 1,
+      "title": "Tasty Rubber Towels"
+    },
+    {
+      "id": "e71f",
+      "userId": 1,
+      "title": "Refined Rubber Ball"
+    },
+    {
+      "id": "fa66",
+      "userId": "da51",
+      "title": "Refined Rubber Mouse"
+    },
+    {
+      "id": "0b20",
+      "userId": "da51",
+      "title": "Sleek Bronze Bacon"
+    }
+  ],
+  "photos": [
+    {
+      "id": "51d7",
+      "albumId": "31b3",
+      "url": "https://loremflickr.com/640/480/abstract?lock=4205254436454400"
+    },
+    {
+      "id": "7884",
+      "albumId": "31b3",
+      "url": "https://loremflickr.com/640/480/abstract?lock=4484652905529344"
+    },
+    {
+      "id": "3eaf",
+      "albumId": "31b3",
+      "url": "https://loremflickr.com/640/480/abstract?lock=2692848654745600"
+    },
+    {
+      "id": "163e",
+      "albumId": "31b3",
+      "url": "https://loremflickr.com/640/480/abstract?lock=3895103294799872"
+    },
+    {
+      "id": "a66e",
+      "albumId": "fa66",
+      "url": "https://loremflickr.com/640/480/abstract?lock=3363700754874368"
+    }
+  ]
+}
